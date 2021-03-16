@@ -1,4 +1,4 @@
-#About me:
+# About me:
 
       I'm new to markdown, so bare with me. xd
 
